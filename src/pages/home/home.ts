@@ -23,7 +23,7 @@ ClickThree(){
   this.teamA +=3;
 }
 Click1(){
-  this.teamB +=2;
+  this.teamB +=1;
 }
 Click2(){
   this.teamB +=2;
